@@ -1,1 +1,1 @@
-# soccer_game
+# Soccer Game Re-ID Project
